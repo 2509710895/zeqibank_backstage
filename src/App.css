@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+
+.ant-descriptions-title{
+    margin-left: 20px;
+    font-size: 20px;
+}

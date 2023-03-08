@@ -1,0 +1,8 @@
+.option-div{
+    
+    width: 100%;
+    height: auto;
+    word-wrap:break-word;
+    word-break:break-all;
+    /* overflow: hidden; */
+}
